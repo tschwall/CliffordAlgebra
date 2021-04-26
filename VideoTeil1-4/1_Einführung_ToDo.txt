@@ -1,0 +1,6 @@
+Teil 1: Titel und Subtitel
+
+Subtitel --> "A unified language for mathematics and pysics" Hestenes & Sobczyk
+
+Teil 2: Clifford Algebra Vorteile
+- 4 Maxwell Gleichungen zu einer vereinen* --> wird in dieser Präsentation leider nicht näher erläutert
