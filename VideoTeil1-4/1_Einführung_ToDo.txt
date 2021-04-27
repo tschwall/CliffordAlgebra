@@ -3,4 +3,7 @@ Teil 1: Titel und Subtitel
 Subtitel --> "A unified language for mathematics and pysics" Hestenes & Sobczyk
 
 Teil 2: Clifford Algebra Vorteile
+- Keine weitere Dimension für Drehungen in 2D
+- Erweiterung der Idee des Kreuzprodukts in höhere Dimensionen
 - 4 Maxwell Gleichungen zu einer vereinen* --> wird in dieser Präsentation leider nicht näher erläutert
+- Einfache Darstellung von Rotationen 
