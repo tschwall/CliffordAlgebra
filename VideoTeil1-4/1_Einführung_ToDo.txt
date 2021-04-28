@@ -2,7 +2,7 @@ Teil 1: Titel und Subtitel
 
 Subtitel --> "A unified language for mathematics and pysics" Hestenes & Sobczyk
 
- GA provides aunified language for the whole of physics and for much
+ GA provides a unified language for the whole of physics and for much
 of mathematics and its applications that is conceptually and computationally
 superior to alternative mathematical systems in many application domains.
 
