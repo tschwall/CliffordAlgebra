@@ -1,0 +1,2 @@
+Ziel: Das Quadrat eines Vektors ergibt das Quadrat der Länge
+

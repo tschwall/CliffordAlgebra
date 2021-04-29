@@ -1,0 +1,15 @@
+Teil 1: Titel und Subtitel
+
+Subtitel --> "A unified language for mathematics and pysics" Hestenes & Sobczyk
+
+ GA provides a unified language for the whole of physics and for much
+of mathematics and its applications that is conceptually and computationally
+superior to alternative mathematical systems in many application domains.
+
+Clifford Algebra to Geometric Calculus. A Unified Language for Mathematics and Physics
+
+Teil 2: Clifford Algebra Vorteile
+- Keine weitere Dimension für Drehungen in 2D
+- Erweiterung der Idee des Kreuzprodukts in höhere Dimensionen
+- 4 Maxwell Gleichungen zu einer vereinen* --> wird in dieser Präsentation leider nicht näher erläutert
+- Einfache Darstellung von Rotationen 
