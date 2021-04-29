@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/3163782288_2326433715_4187097654.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_3192541935_3426548424.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_351686057_391621142.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_867870143_391621142.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_2871631670_1698716218.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_2616472470_1706850982.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_11637099_2511965374.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_853292979_4249490272.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_2158878324_4249490272.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_3674568223_531971402.mp4'
+file 'file:C:/Users/thisc/Desktop/Studium/MathematischesSeminar/GitHub/CliffordAlgebra/media/videos/GeometricAlgebra/480p15/partial_movie_files/GeometricAlgebra2D/1495979052_2616472470_70339833.mp4'
